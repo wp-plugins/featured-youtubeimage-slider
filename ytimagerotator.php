@@ -1,8 +1,9 @@
 <?php
 /*
 Plugin Name: Featured YouTube/Image Slider
-Plugin URI: http://pizzli.com
+Plugin URI: http://wordpress.org/plugins/featured-youtubeimage-slider/
 Description: A YouTube/Image Rotator for WordPress
+Version: 1.0
 Author: Alexander C. Block
 Author URI: http://pizzli.com
 License: GPLv2
