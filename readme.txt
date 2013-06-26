@@ -11,7 +11,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Featured YouTube/Image Slider for WordPress is a jQuery based content slider 
 == Description ==
 
-Featured YouTube/Image Slider for WordPress is a jQuery based content slider that allows you to display both YouTube Videos and Images anywhere on your site by using a shortcode. 
+Featured YouTube/Image Slider for WordPress is a jQuery based content slider that allows you to display both YouTube Videos and Images anywhere on your site by using a shortcode.
+
 Simply use the [ytimageslider] shortcode on any page or post
 
 Demo: http://pizzli.com/pluginbox/youtube-image-rotator/
